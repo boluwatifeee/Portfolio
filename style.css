@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(53, 11, 11);
+}
+header{
+    background-color: rgb(158, 112, 112);
+    height: 18px;
+    padding-top: 1em;
+    padding-right: 1em;
+    text-align: right;  
+    word-spacing: 5px;
+    
+}
+a{
+   text-decoration: none;
+   color: burlywood ;
+   padding-top: 8em;
+   font-style: italic;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:hover{
+    text-decoration: underline;
+}
+img{
+    border-radius: 10%;
+    height: 250px;
+    align-content: center;
+    padding-top: 10em;
+    margin-left: 40%;
+    margin-bottom: 5%;
+}
+main p{
+    text-align: center;
+    margin-left: 3em;
+    font-size: 190%;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+}
+.education{
+    margin-left: 4em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: bisque;
+}
+.experience{
+    margin-left: 4em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: bisque;
+}
+
+.skills{
+    margin-left: 4em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: bisque;
+}
+.details{
+    margin-left: 4em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: bisque;
+}
